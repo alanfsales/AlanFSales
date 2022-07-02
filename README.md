@@ -14,6 +14,3 @@ Comecei como entregador, em pouco tempo passei para o estoque e em seguida para 
 
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /><img align="center" alt="Java" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /><img align="center" alt="Java" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanFSales&layout=compact)](https://github.com/AlanFSales/github-readme-stats)
-
-![Alan GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanFSales&show_icons=true&theme=onedark)
